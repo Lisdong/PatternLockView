@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.andrognito.patternlockview.PatternLockView
+        android:id="@+id/patter_lock_view_test"
+        android:layout_width="320dp"
+        android:layout_height="320dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        app:aspectRatio="square"
+        app:aspectRatioEnabled="true"
+        app:dotAnimationDuration="150"
+        app:pathWidth="2dp"
+        app:normalStateColor="#DADBE0"
+        app:correctStateColor="#4473E7"
+        app:correctStateColor_side="#F4F7FE"
+        app:wrongStateColor="#E96062"
+        app:wrongStateColor_side="#FCF6F6"
+        app:dotCount="3"/>
+</LinearLayout>
