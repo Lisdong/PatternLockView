@@ -1,7 +1,8 @@
 ![PatternLockView](https://github.com/Lisdong/PatternLockView/blob/master/screenshots/Screenshot_2019-05-07-15-48-32-45.png)
 ![PatternLockView](https://github.com/Lisdong/PatternLockView/blob/master/screenshots/Screenshot_2019-05-07-15-48-08-96.png)
 # PatternLockView
-
+由于项目需要图形解锁，改造了来自aritraroy神的ui库地址https://github.com/aritraroy/PatternLockView ，在此基础上有了现在的PatternLockView。
+    
 ### Step 1
 
 Place the view in your XML layout file.
