@@ -1,4 +1,4 @@
-![PatternLockView](https://github.com/Lisdong/PatternLockView/blob/master/screenshots/Screenshot_2019-05-07-15-48-08-96.png)
+![PatternLockView](https://github.com/Lisdong/PatternLockView/blob/master/screenshots/Screenshot_2019-05-07-15-48-32-45.png)
 
 # PatternLockView
 An easy-to-use, customizable, Material Design ready Pattern Lock view for Android.
