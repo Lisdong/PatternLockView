@@ -1,41 +1,6 @@
 ![PatternLockView](https://github.com/Lisdong/PatternLockView/blob/master/screenshots/Screenshot_2019-05-07-15-48-32-45.png)
 
 # PatternLockView
-An easy-to-use, customizable, Material Design ready Pattern Lock view for Android.
-
-### Specs
-[ ![Download](https://api.bintray.com/packages/aritraroy/maven/patternlockview/images/download.svg) ](https://bintray.com/aritraroy/maven/patternlockview/_latestVersion) [![API](https://img.shields.io/badge/API-14%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=14) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-PatternLockView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5515)
-
-
-This library allows you to implement pattern locking mechanism in your app **easily and quickly**. It is very easy to use and there are **plenty of customization options** available to change the functionality and look-and-feel of this view to match your needs.
-
-It also **supports RxJava 2 view bindings**, so if you are a fan of reactive programming (just like me), you can get a stream of updates as the user draws the pattern.
-
-![PatternLockView](https://github.com/aritraroy/PatternLockView/blob/master/screenshots/pattern_lock_view_small.gif?raw=true) ![PatternLockView](https://github.com/aritraroy/PatternLockView/blob/master/screenshots/pattern_lock_view_2_small.gif?raw=true)
-
-
-# Download
-
-This library is available in **jCenter** which is the default Maven repository used in Android Studio.
-
-## Gradle 
-```gradle
-dependencies {
-    // other dependencies here
-    
-    compile 'com.andrognito.patternlockview:patternlockview:1.0.0'
-    // Optional, for RxJava2 adapter
-    compile 'com.andrognito.patternlockview:patternlockview-reactive:1.0.0'
-}
-```
-
-### Spread Some :heart:
-[![GitHub stars](https://img.shields.io/github/stars/aritraroy/PatternLockView.svg?style=social&label=Star)](https://github.com/aritraroy) [![GitHub followers](https://img.shields.io/github/followers/aritraroy.svg?style=social&label=Follow)](https://github.com/aritraroy)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/aritraroy.svg?style=social)](https://twitter.com/aritraroy) 
-
-
-# Usage
-We recommend you to check the [sample project](https://github.com/aritraroy/PatternLockView/blob/master/app/src/main/java/com/andrognito/patternlockdemo/MainActivity.java) to get a complete understanding of the library. The step-by-step implementation guide is as follows.
 
 ### Step 1
 
